@@ -1,0 +1,29 @@
+
+h1 {
+    background-color: #565151;
+    padding: 10px;
+    text-emphasis-color: #f3e2bb;
+
+  }
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.horizontal-section {
+  flex: 1 1 33%; /* Adjust the percentage as needed */
+  margin: 10px;
+  padding: 10px;
+  background-color: #f3e2bb;
+  border: 3px solid #3b3a33;
+}
+
+.cart {
+  background-color: #f3e2bb;
+  border: 1px solid #3b3a33;
+  padding: 10px;
+  margin: 10px;
+  border: 3px solid 
+}
+
